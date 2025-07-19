@@ -180,10 +180,10 @@ Below are some screenshots of the main features and screens of the app:
 ### Anonymous Support Chat
 ![Anonymous Support](screenshots/create_chat.PNG)
 ![Anonymous Support](screenshots/chatting.PNG)
-![Anonymous Support](screenshots/chat.png)
+![Anonymous Support](screenshots/chat.PNG)
 ![Anonymous Support](screenshots/leave_chat.PNG)
 ![Anonymous Support](screenshots/academic_stress_chat.PNG)
-![Anonymous Support](screenshots/peer_support_chat.PNG)
+![Anonymous Support](screenshots/Peer_support_chat.PNG)
 
 
 ### Emergency Screen
