@@ -135,46 +135,46 @@ Below are some screenshots of the main features and screens of the app:
 
 
 ### Journal
-![Journal](screenshots/journal.png)
-![Journal](screenshots/write_new_entry.png)
-![Journal](screenshots/saved_journal.png)
-![Journal](screenshots/journal_history.png)
-![Journal](screenshots/journal_search.png)
+![Journal](screenshots/journal.PNG)
+![Journal](screenshots/write_new_entry.PNG)
+![Journal](screenshots/saved_journal.PNG)
+![Journal](screenshots/journal_history.PNG)
+![Journal](screenshots/journal_search.PNG)
 
 
 ### Meditation
-![Meditation](screenshots/meditation.png)
-![Meditation](screenshots/meditation_session.png)
-![Meditation](screenshots/starting_session.png)
-![Meditation](screenshots/session_completed.png)
+![Meditation](screenshots/meditation.PNG)
+![Meditation](screenshots/meditation_session.PNG)
+![Meditation](screenshots/starting_session.PNG)
+![Meditation](screenshots/session_completed.PNG)
 
 ### Anonymous Support Chat
-![Anonymous Support](screenshots/create_chat.png)
-![Anonymous Support](screenshots/chatting.png)
+![Anonymous Support](screenshots/create_chat.PNG)
+![Anonymous Support](screenshots/chatting.PNG)
 ![Anonymous Support](screenshots/chat.png)
-![Anonymous Support](screenshots/leave_chat.png)
-![Anonymous Support](screenshots/academic_stress_chat.png)
-![Anonymous Support](screenshots/peer_support_chat.png)
+![Anonymous Support](screenshots/leave_chat.PNG)
+![Anonymous Support](screenshots/academic_stress_chat.PNG)
+![Anonymous Support](screenshots/peer_support_chat.PNG)
 
 
 ### Emergency Screen
-![Emergency Screen](screenshots/emergency.png)
-![Emergency Screen](screenshots/make_call.png)
+![Emergency Screen](screenshots/emergency.PNG)
+![Emergency Screen](screenshots/make_call.PNG)
 
 ### Emergency Protocols
-![Emergency Protocols](screenshots/emergency_protocal.png)
+![Emergency Protocols](screenshots/emergency_protocal.PNG)
 
 ### Profile
-![Profile](screenshots/profile.png)
-![Profile](screenshots/edit_profile.png)
-![Profile](screenshots/upload_profile_pic.png)
+![Profile](screenshots/profile.PNG)
+![Profile](screenshots/edit_profile.PNG)
+![Profile](screenshots/upload_profile_pic.PNG)
 
 ### Wellness Goal
-![Wellness Goal](screenshots/Wellness_Goal.png)
-![Wellness Goal](screenshots/add_new_goal.png)
+![Wellness Goal](screenshots/Wellness_Goal.PNG)
+![Wellness Goal](screenshots/add_new_goal.PNG)
 
 ### Settings
-![Settings](screenshots/settings.png)
+![Settings](screenshots/settings.PNG)
 
 ### Statistic
 ![Statistic](screenshots/statics.PNG)
