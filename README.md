@@ -153,13 +153,13 @@ The app works offline for journaling and mood tracking, and features a modern, a
 Below are some screenshots of the main features and screens of the app:
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.PNG)
 
 ### Mood Tracking
-![Mood Tracking](screenshots/mood.png)
-![Mood Tracking](screenshots/save_mood.png)
-![Mood Tracking](screenshots/saved_mood.png)
-![Mood Tracking](screenshots/mood_history.png)
+![Mood Tracking](screenshots/mood.PNG)
+![Mood Tracking](screenshots/save_mood.PNG)
+![Mood Tracking](screenshots/saved_mood.PNG)
+![Mood Tracking](screenshots/mood_history.PNG)
 
 
 
