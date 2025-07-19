@@ -194,8 +194,8 @@ Below are some screenshots of the main features and screens of the app:
 ![Emergency Protocols](screenshots/emergency_protocal.PNG)
 
 ### Profile
-![Profile](screenshots/profile.PNG)
-![Profile](screenshots/edit_profile.PNG)
+![Profile](screenshots/Profile.PNG)
+![Profile](screenshots/Edit_profile.PNG)
 ![Profile](screenshots/upload_profile_pic.PNG)
 
 ### Wellness Goal
