@@ -183,7 +183,7 @@ Below are some screenshots of the main features and screens of the app:
 ![Anonymous Support](screenshots/chat.PNG)
 ![Anonymous Support](screenshots/leave_chat.PNG)
 ![Anonymous Support](screenshots/academic_stress_chat.PNG)
-![Anonymous Support](screenshots/Peer_support_chat.PNG)
+![Anonymous Support](screenshots/Peer_Support_chat.PNG)
 
 
 ### Emergency Screen
