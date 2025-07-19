@@ -213,12 +213,8 @@ Below are some screenshots of the main features and screens of the app:
 ---
 
 ### Student Details
-Name: KALISA Mutabazi\n
-Id: 25863\n
-University: Adventist University of Central Africa (AUCA)\n
-Course: Mobile Programming
-Instructor: Regis Safi
-
+Name: KALISA Mutabazi   
+Id: 25863
 
 ## 📬 Contact & Support
 
