@@ -90,6 +90,35 @@ The app works offline for journaling and mood tracking, and features a modern, a
 
 ---
 
+## 📱 How to Install the APK on Your Android Device
+
+1. **Build or Download the APK**
+   - The APK file is located at `apk/app-release.apk` in this repository.
+   - You can also build it yourself using:
+     ```sh
+     flutter build apk --release
+     ```
+     The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
+
+2. **Transfer the APK to Your Device**
+   - Connect your Android device to your computer via USB, or use a cloud service (Google Drive, email, etc.) to transfer the APK file.
+
+3. **Enable Installation from Unknown Sources**
+   - On your Android device, go to **Settings > Security** (or **Settings > Apps & notifications > Special app access > Install unknown apps**).
+   - Allow your file manager or browser to install unknown apps.
+
+4. **Install the APK**
+   - Open your file manager and navigate to the APK file.
+   - Tap the APK file and follow the prompts to install.
+   - You may see a warning—confirm to proceed.
+
+5. **Open the App**
+   - Once installed, you’ll find the Student Wellness App in your app drawer. Tap to open and enjoy!
+
+> **Note:** You do not need to be connected to the Play Store to install or use the APK, but you must allow installation from unknown sources.
+
+---
+
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository:**
