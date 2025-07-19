@@ -29,7 +29,9 @@ class _AnonymousChatScreenState extends State<AnonymousChatScreen> with TickerPr
   @override
   void initState() {
     super.initState();
-    _initializeAnonymousUser();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _initializeAnonymousUser();
+    });
   }
 
   @override
